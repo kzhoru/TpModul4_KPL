@@ -26,6 +26,43 @@ public class KodePos
     }
 }
 
+public class DoorMachine
+{
+    private enum State { TERKUNCI, TERBUKA };
+    private State currentState;
+
+    public DoorMachine()
+    {
+        this.currentState = State.TERKUNCI;
+    }
+
+    public void BukaPintu()
+    {
+        if (currentState == State.TERKUNCI)
+        {
+            this.currentState = State.TERBUKA;
+            Console.WriteLine("Pintu tidak terkunci");
+        }
+        else
+        {
+            Console.WriteLine("Pintu sudah terbuka");
+        }
+    }
+
+    public void KunciPintu()
+    {
+        if (currentState == State.TERBUKA)
+        {
+            this.currentState = State.TERKUNCI;
+            Console.WriteLine("Pintu terkunci");
+        }
+        else
+        {
+            Console.WriteLine("Pintu sudah terkunci");
+        }
+    }
+}
+
 class Program
 {
     static void Main()
@@ -35,7 +72,14 @@ class Program
         Console.WriteLine(kodePos.GetKodePos("Kujangsari"));
         Console.WriteLine(kodePos.GetKodePos("Mengger"));
 
-      
+        DoorMachine door = new DoorMachine();
+
+        door.BukaPintu();
+        door.BukaPintu();
+        door.KunciPintu();
+        door.KunciPintu();
+
+
     }
 }
 
