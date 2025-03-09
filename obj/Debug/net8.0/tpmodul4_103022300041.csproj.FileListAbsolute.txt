@@ -1,0 +1,15 @@
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\bin\Debug\net8.0\tpmodul4_103022300041.exe
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\bin\Debug\net8.0\tpmodul4_103022300041.deps.json
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\bin\Debug\net8.0\tpmodul4_103022300041.runtimeconfig.json
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\bin\Debug\net8.0\tpmodul4_103022300041.dll
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\bin\Debug\net8.0\tpmodul4_103022300041.pdb
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.AssemblyInfoInputs.cache
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.AssemblyInfo.cs
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.csproj.CoreCompileInputs.cache
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.sourcelink.json
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.dll
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\refint\tpmodul4_103022300041.dll
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.pdb
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\tpmodul4_103022300041.genruntimeconfig.cache
+D:\Dokumen Kuliah\Semester 4\Konstruksi Perangkat Lunak Praktikum\TP MODUL 4\tpmodul4_103022300041\obj\Debug\net8.0\ref\tpmodul4_103022300041.dll
